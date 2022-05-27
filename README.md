@@ -50,7 +50,7 @@ C:\Users\SEU_USUARIO\Anaconda3\Scripts
  -> Inciar um programa<br/>
  -> Programa/script: Adicionar o caminho do Anaconda3 (geralmente C:\Users\SEU_USUARIO\anaconda3)<br/>
  -> Adicione argumentos: pointer.py<br/>
- -> Iniciar em: Caminho do clone do repositório: C:\Users\SEU_USUARIO\Dasa_Pointer\<br/>
+ -> Iniciar em: Caminho do clone do repositório: C:\Users\SEU_USUARIO\Dasa_Pointer\ <br/>
  -> Concluir
  
  ### Pronto
