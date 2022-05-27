@@ -9,6 +9,7 @@ dayOfTheWeek = datetime.today().weekday()
 
 if dayOfTheWeek != 5 and dayOfTheWeek != 6:
     options = webdriver.ChromeOptions() 
+    options.add_argument("--headless")
     driver = webdriver.Chrome(executable_path=r'./chromedriver.exe', chrome_options=options)
     driver.get('https://portalpessoas.dasa.com.br')
     time.sleep(1)
