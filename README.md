@@ -12,7 +12,7 @@ De resto é só dar next e concluir a instalação.
 
 ### Configurar o Anaconda3
 
-Realizar o donwload do Anaconda3: https://www.anaconda.com/products/distribution
+Realizar o donwload do Anaconda3: https://www.anaconda.com/products/distribution<br/>
 É só dar next e concluir a instalação (caso queria alterar o path padrão de instalação lembre de salvar).
 
 ### Configurar o Selenium
